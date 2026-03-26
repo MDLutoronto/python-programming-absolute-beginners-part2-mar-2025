@@ -3,6 +3,13 @@ title: "An Introduction to Programming for Absolute Beginners Using Python Pt. 2
 layout: "home"
 description: "This page provides a video recording of an introductory workshop on Python, continuing from where the first part of the Python series left off."
 created_date: 2025-01-28
+maintainer:
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz 
+    - name: Neil Aitken
+      link: https://library.utoronto.ca/staff/neil-aitken
+    - name: Kara Handren
+      link: https://library.utoronto.ca/staff/kara-handren
 permalink: "/"  #! Remove this if not the homepage
 ---
 
@@ -27,4 +34,4 @@ Please note that a recording of an older version of the Part 2 workshop is also 
 
 [A Friendly Introduction to Python for Absolute Beginners: Part 2 (2022)](https://play.library.utoronto.ca/watch/20c88873738573f9c377c04f18bfa676)
 
-Tools: [Python](/tools/python)
+Tools: [Python](https://mdl.library.utoronto.ca/tools/python)

@@ -34,4 +34,4 @@ Please note that a recording of an older version of the Part 2 workshop is also 
 
 [A Friendly Introduction to Python for Absolute Beginners: Part 2 (2022)](https://play.library.utoronto.ca/watch/20c88873738573f9c377c04f18bfa676)
 
-Tools: [Python](https://mdlutoronto.github.io/tutorials-search/?tool=Python)
+**Tools:** [Python](https://mdlutoronto.github.io/tutorials-search/?tool=Python)

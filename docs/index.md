@@ -4,10 +4,10 @@ layout: "home"
 description: "This page provides a video recording of an introductory workshop on Python, continuing from where the first part of the Python series left off."
 created_date: 2025-01-28
 staff:
- - name: Kelly Schultz
-   link: https://library.utoronto.ca/staff/kelly-schultz
- - name: Kara Handren
-   link: https://library.utoronto.ca/staff/kara-handren
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+    - name: Kara Handren
+      link: https://library.utoronto.ca/staff/kara-handren
 maintainer:
     - name: Kelly Schultz
       link: https://library.utoronto.ca/staff/kelly-schultz 

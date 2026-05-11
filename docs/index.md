@@ -1,5 +1,5 @@
 ---
-title: "An Introduction to Programming for Absolute Beginners Using Python Pt. 2 (March 2025)"
+title: "Workshop Recording: An Introduction to Programming for Absolute Beginners Using Python Pt. 2 (March 2025)"
 layout: "home"
 description: "This page provides a video recording of an introductory workshop on Python, continuing from where the first part of the Python series left off."
 created_date: 2025-01-28
@@ -13,7 +13,7 @@ maintainer:
 permalink: "/"  #! Remove this if not the homepage
 ---
 
-# An Introduction to Programming for Absolute Beginners Using Python Pt. 2 (March 2025)
+# Workshop Recording: An Introduction to Programming for Absolute Beginners Using Python Pt. 2 (March 2025)
 
 This page provides a video recording of an introductory workshop on Python, continuing from where the first part of the Python series left off.
 
@@ -24,14 +24,18 @@ This page provides a video recording of an introductory workshop on Python, cont
 * **Software**: Python is free to use. We will be using [Jupyter Notebooks](https://jupyter.org/) (also free to use) for the session, which is a browser-based programming environment, so no software setup is required.
 * **Who**: This workshop is designed for absolute beginners with no previous experience with programming. However, it is recommended that participants have completed the [Part 1 workshop](https://mdl.library.utoronto.ca/technology/tutorials/workshop-recording-introduction-programming-absolute-beginners-using-python-pt) or have equivalent knowledge. Skills gained can help participants from any discipline: Humanities, Social Sciences, or Sciences.
 
-[**Recording - 1:28:01**](https://play.library.utoronto.ca/watch/c6bf64d51dfbcd33b00d5969f18632c6)**,** [**Setup Instructions**](https://maps.library.utoronto.ca/workshops/PythonPart2/SetupInstructions.pdf) **(includes how to get slides, workshop files, handouts, etc.), &** [**Solutions**](https://maps.library.utoronto.ca/workshops/PythonPart2/WorkshopSolutions.zip) **(zip folder)**
+[**Recording - 1:28:01**](https://play.library.utoronto.ca/watch/c6bf64d51dfbcd33b00d5969f18632c6)
 
- 
+<iframe width="560" height="315" src="https://play.library.utoronto.ca/embed/c6bf64d51dfbcd33b00d5969f18632c6" frameborder="0" allowfullscreen> iframe not supported </iframe>
+
+[**Setup Instructions**](https://maps.library.utoronto.ca/workshops/PythonPart2/SetupInstructions.pdf) **(includes how to get slides, workshop files, handouts, etc.) &** [**Solutions**](https://maps.library.utoronto.ca/workshops/PythonPart2/WorkshopSolutions.zip) **(zip folder)**
 
 **Previous Versions** 
   
 Please note that a recording of an older version of the Part 2 workshop is also available. This version contains errors handling in the second half, and does not discuss string manipulation. Notebooks for this version are no longer supported.
 
 [A Friendly Introduction to Python for Absolute Beginners: Part 2 (2022)](https://play.library.utoronto.ca/watch/20c88873738573f9c377c04f18bfa676)
+
+<iframe width="560" height="315" src="https://play.library.utoronto.ca/embed/20c88873738573f9c377c04f18bfa676" frameborder="0" allowfullscreen> iframe not supported </iframe>
 
 **Tools:** [Python](https://mdlutoronto.github.io/tutorials-search/?tool=Python)
